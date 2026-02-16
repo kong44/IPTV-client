@@ -1,0 +1,8 @@
+{
+  "name": "Lumina IPTV",
+  "description": "A high-performance, modern IPTV player with AI-powered discovery, playlist management, and a sleek cinematic UI.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
